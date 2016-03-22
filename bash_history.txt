@@ -118,3 +118,22 @@ Branch master set up to track remote branch master from origin.
 
 va@OXY_PC MINGW64 ~/git_repos/SQL_Scripts (master)
 $
+
+
+va@OXY_PC MINGW64 ~/git_repos/SQL_Scripts (master)
+$ git add -A
+
+va@OXY_PC MINGW64 ~/git_repos/SQL_Scripts (master)
+$ git commit -m "bash history"
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+
+va@OXY_PC MINGW64 ~/git_repos/SQL_Scripts (master)
+$ git push --set-upstream origin master
+Branch master set up to track remote branch master from origin.
+Everything up-to-date
+
+va@OXY_PC MINGW64 ~/git_repos/SQL_Scripts (master)
+$
+
