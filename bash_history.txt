@@ -1,0 +1,120 @@
+
+va@OXY_PC MINGW64 ~/git_repos/SQL_Scripts (master)
+$ history
+    1  git config --global user.name "dbproff"
+    2  git config --global user.email "dbpro@outlook.com"
+    3  git config
+    4  git config --get -all
+    5  git config --get-all
+    6  git config --get-all
+    7  git config --list
+    8  exit
+    9  history
+   10  git config --list
+   11  pwd
+   12  mkdir ~/public
+   13  cd ~/public
+   14  pwd
+   15  git init
+   16  git remote add origin https://github.com
+   17  git remote add origin https://github.com/dbproff/public.git
+   18  git remote remove origin https://github.com/dbproff/public.git
+   19  git remote remove https://github.com/dbproff/public.git
+   20  git delete /help
+   21  git remove /help
+   22  rmdir ~/public
+   23  rmdir ~/public
+   24  mkdir ~/public
+   25  cd  ~/public
+   26  git init
+   27  git remote add origin https://github.com/dbproff/public.git
+   28  cd ..
+   29  pwd
+   30  mkdir git_repos
+   31  ls -a
+   32  cd  ~/git_repos
+   33  pwd
+   34  git init
+   35  git clone https://github.com/dbproff/sql-scripts.git
+   36  pwd
+   37  cd ..
+   38  mkdir ~/SQL_Scripts
+   39  cd ~/SQL_Scripts
+   40  git init
+   41  git remote add origin https://github.com/dbproff/SQL_Scripts.git
+   42  ls -a
+   43  ls -a
+   44  cd ..
+   45  cd git_*
+   46  ls
+   47  mkdir sql-scripts
+   48  git init
+   49  cd sql-scripts
+   50  git init
+   51  git clone https://github.com/dbproff/sql-scripts.git
+   52  cd ..
+   53  ls
+   54  mkdir public
+   55  cd public
+   56  git init
+   57  git remote add origin https://github.com/dbproff/public.git
+   58  cd ..
+   59  ls
+   60  mkdir SQL_Scripts
+   61  ls
+   62  cd SQL_Scripts
+   63  ls
+   64  git init
+   65  git remote add origin https://github.com/dbproff/SQL_Scripts.git
+   66  git add
+   67  git add .
+   68  git add -u
+   69  git add -A
+   70  git commint -m "20160321 1st try"
+   71  git commit -m "20160321 1st try"
+   72  git push
+   73  git config --global push.default simple
+   74  git push
+   75  git push --set-upstream origin master
+   76  git pull
+   77  git push --set-upstream origin master
+   78  git pul(1)
+   79  git pull(1)
+   80  git pull /help
+   81  git pull SQL_Scripts
+   82  git pull https://github.com/dbproff/SQL_Scripts.git
+   83  ls
+   84  cd  git_repos
+   85  ls
+   86  cd SQL_*
+   87  ls
+   88  git push
+   89  git push --set-upstream origin master
+   90  git history
+   91  history
+   92  git add -A
+   93  git push --set-upstream origin master
+   94  git add -A
+   95  git commint -m "20160321 2nd try"
+   96  git push --set-upstream origin master
+   97  history
+
+va@OXY_PC MINGW64 ~/git_repos/SQL_Scripts (master)
+$ git commit -m "20160321 2nd try"
+[master 737e023] 20160321 2nd try
+ 1 file changed, 173 insertions(+)
+ create mode 100644 Funciones.sql
+
+va@OXY_PC MINGW64 ~/git_repos/SQL_Scripts (master)
+$ git push --set-upstream origin master
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.53 KiB | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/dbproff/SQL_Scripts.git
+   d168f82..737e023  master -> master
+Branch master set up to track remote branch master from origin.
+
+va@OXY_PC MINGW64 ~/git_repos/SQL_Scripts (master)
+$
